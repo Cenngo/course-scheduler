@@ -1,6 +1,6 @@
 {
-  "short_name": "Scheduler",
-  "name": "ITU Scheduler",
+  "short_name": "Kiosk",
+  "name": "Das Kiosk",
   "icons": [
     {
       "src": "favicon.ico",
